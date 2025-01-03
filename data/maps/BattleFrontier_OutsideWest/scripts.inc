@@ -393,10 +393,7 @@ BattleFrontier_OutsideWest_Text_BigGuySaidIllLendYouMons:
 	.string "He said, “I'll lend you POKéMON!”$"
 
 BattleFrontier_OutsideWest_Text_WhosRaisingThoseRentalMons:
-	.string "That's the BATTLE FACTORY.\n"
-	.string "You can rent strong POKéMON there.\p"
-	.string "But it makes me wonder.\n"
-	.string "Who's raising those rental POKéMON?$"
+	.string "I wish LRXC would call me.$"
 
 BattleFrontier_OutsideWest_Text_ScaredOfPikeBecauseSeviper:
 	.string "I'm scared of going into the BATTLE\n"
